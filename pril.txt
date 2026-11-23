@@ -2,7 +2,3 @@
 # Формат: Название папка файл_запуска ссылка
 
 minecraft minecraft Minecraft.exe gh:maksalfa666-jpg/minecraft-launcher-ai:.exe
-Блокнот notepad.exe
-Калькулятор calc.exe
-Проводник explorer.exe
-Google https://google.com
